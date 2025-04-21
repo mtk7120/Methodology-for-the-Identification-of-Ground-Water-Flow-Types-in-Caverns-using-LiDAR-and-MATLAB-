@@ -1,0 +1,2 @@
+# Methodology-for-the-Identification-of-Ground-Water-Flow-Types-in-Caverns-using-LiDAR-and-MATLAB-
+Uses a MATLAB script to identify stalactites then analyzes morphological properties of these stalactites to classify them as 1 of 3 flow types based on aspect ration and cross sectional area. Developed by DR. Kashif Mahmude and Tested by Matthew Kaspar and Kathryn Brown. (Repository of the Script and the base Lidar data from Natural Bridge Caverns)
