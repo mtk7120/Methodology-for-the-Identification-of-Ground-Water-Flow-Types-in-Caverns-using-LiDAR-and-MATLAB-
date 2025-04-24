@@ -12,3 +12,4 @@ Combination flow, a mixture of matrix and fracture flow which forms more circula
 
 
 LiDAR data repository for the southern section of Natural Bridge Caverns (San Antonio Texas) can be found here: https://1drv.ms/f/c/a196910dc5ec01be/EonTeQgOzoJLoYqqitWlLm8Bjzp1u34byJb0iMO-WIJVww?e=HFauBS
+This contains the bas lidar bin files fro the entire souther section and the seperate study areas
